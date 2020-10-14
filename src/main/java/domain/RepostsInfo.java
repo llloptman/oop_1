@@ -1,8 +1,8 @@
 package main.java.domain;
 
 public class RepostsInfo {
-    int count;
-    int idWho;
-    boolean isReposted;
+    private int count;
+    private int idWho;
+    private boolean isReposted;
     // + get/set на все поля
 }

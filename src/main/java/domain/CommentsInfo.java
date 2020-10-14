@@ -1,10 +1,12 @@
 package main.java.domain;
 
+import main.java.domain.attachment.AttachmentsInfo;
+
 public class CommentsInfo {
-    int id;
-    int idWho;
-    String text;
-    AttachmentsInfo attachmentsInfo;
-    int date;
+   private int id;
+   private int idWho;
+   private String text;
+   private AttachmentsInfo attachmentsInfo;
+   private int date;
     // + get/set на все поля
 }

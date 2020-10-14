@@ -1,8 +1,8 @@
 package main.java.domain;
 
 public class LikesInfo {
-    int count;
-    int idWho;
-    boolean isLiked;
+   private int count;
+   private  int idWho;
+   private boolean isLiked;
     // + get/set на все поля
 }
